@@ -1,43 +1,74 @@
-# QA-Portfolio
-Manual Testing | API Testing | Security Testing | SQL | Bug Reports | Test Cases
 # QA Portfolio
+
+## About Me
 
 Hi, I'm Kumar.
 
-I'm a Software QA Tester with experience in Manual Testing, API Testing, SQL, Security Testing, and Defect Reporting.
-
-## Skills
+I'm a Software QA Engineer with experience in:
 
 - Manual Testing
 - Functional Testing
 - Regression Testing
-- API Testing (Postman)
+- API Testing
 - SQL
-- Jira
 - Security Testing
-  - SQL Injection
-  - Cross-Site Scripting (XSS)
+- Jira
+- Bug Reporting
 
-## Portfolio Contents
+I'm currently building my Software Development Engineer in Test (SDET) skills using Java and Selenium.
 
-- Test Plans
+---
+
+# Portfolio Projects
+
+## Project 1 - OrangeHRM
+
+Complete QA documentation for OrangeHRM Demo Application.
+
+Includes:
+
+- Test Plan
 - Test Cases
 - Bug Reports
+- Screenshots
+- Test Execution Report
+- Test Summary Report
+
+---
+
+## Project 2 - SauceDemo
+
+(Coming Soon)
+
+---
+
+## Skills
+
+- Manual Testing
+- Regression Testing
+- Functional Testing
 - API Testing
+- SQL
 - Security Testing
-- SQL Queries
-- Test Summary Reports
+- Test Documentation
+- Git
+- GitHub
+
+---
 
 ## Tools
 
 - Jira
 - Postman
-- SQL
+- MySQL
 - Chrome DevTools
-- Git & GitHub
+- Git
+- GitHub
+
+---
 
 ## Contact
 
-LinkedIn:  www.linkedin.com/in/sai-kumar-odugu-6484b03aa
-GitHub:  https://github.com/kumar-sdet
-Email:   odugusaikumar2001@gmail.com
+LinkedIn:
+GitHub:
+Email:
