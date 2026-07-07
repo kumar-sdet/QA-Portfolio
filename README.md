@@ -39,5 +39,5 @@ I'm a Software QA Tester with experience in Manual Testing, API Testing, SQL, Se
 ## Contact
 
 LinkedIn:  www.linkedin.com/in/sai-kumar-odugu-6484b03aa
-GitHub:  
+GitHub:  https://github.com/kumar-sdet
 Email:   odugusaikumar2001@gmail.com
